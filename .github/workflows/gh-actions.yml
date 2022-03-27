@@ -23,8 +23,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
       - name: Packaging Release Files
-        run: |
-          sudo apt-get install tar && tar -cfzv lightdm-s4rchiso.tar.gz ./dist
+        run: tar -cfzv lightdm-s4rchiso.tar.gz ./dist
       - name: Upload Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
