@@ -1,5 +1,5 @@
 # LightDM Minimal S4rchiso
-### [DEMO](https://sergioribera.github.io/lightdm-minimal-s4rchiso)
+### [DEMO](https://sergioribera.github.io/lightdm-s4rchiso)
 This is a theme for LightDM Webkit2 (`lightdm-webkit2-greeter`).
 
 This project is a bosted fork of [lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord)
@@ -17,7 +17,7 @@ This project is a bosted fork of [lightdm-gab-nord](https://github.com/AlphaNecr
 - Made with React
 
 ### How to install
-Download the latest release from the [release](https://github.com/SergioRibera/lightdm-minimal-s4rchiso/releases) page. Untar the release into your a `themes` folder in your `lightdm-webkit2-greeter themes directory`, for example `/usr/share/lightdm-webkit/themes`. Make sure you do not have an additional `lightdm-minimal-s4rchiso` folder in your themes folder.
+Download the latest release from the [release](https://sergioribera.github.io/lightdm-s4rchiso/releases) page. Untar the release into your a `themes` folder in your `lightdm-webkit2-greeter themes directory`, for example `/usr/share/lightdm-webkit/themes`. Make sure you do not have an additional `lightdm-minimal-s4rchiso` folder in your themes folder.
 
 Now change your lightdm-webkit2-greeter configuration file (often found at /etc/lightdm/lightdm-webkit2-greeter.conf) to the following:
 
