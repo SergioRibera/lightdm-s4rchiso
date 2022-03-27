@@ -6,7 +6,7 @@ import iconHibernate from '../assets/action-hibernate.png';
 import iconSleep from '../assets/action-sleep.png';
 
 // import { lightdm } from "nody-greeter-types"
-const lightdm = window.lightdm
+import { lightdm } from '../providers/auth'
 
 import PowerButton from './PowerButton';
 

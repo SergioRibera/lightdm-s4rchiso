@@ -7,7 +7,7 @@ import { useStickyState } from '../providers/hooks';
 import { getUsers, getSessions, loggin } from '../providers/auth';
 
 // import { lightdm } from 'nody-greeter-types';
-const lightdm = window.lightdm
+import { lightdm } from '../providers/auth'
 
 
 const LoginBox = ({ }) => {
