@@ -4,7 +4,7 @@ This is a theme for LightDM Webkit2 (`lightdm-webkit2-greeter`).
 
 This project is a bosted fork of [lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord)
 
-![Demo Image](https://user-images.githubusercontent.com/56278796/115663728-eb733e00-a30e-11eb-98fd-45bc33c92e3b.png)
+![Demo Image](https://user-images.githubusercontent.com/56278796/160268217-6ab51a9d-ff21-4e0a-a393-5b379a30ef69.jpeg)
 
 ### Features
 
